@@ -1,3 +1,5 @@
+#python program to reverse user string input
+
 #get input from user
 userInput = input('Enter your input: ')
 

@@ -1,3 +1,6 @@
+#script to create a set number of files under the user's name preference (<fileName> #), 
+#then save all files in a folder with the same name (<fileName> Folder)
+
 import os
 
 #get input from the user

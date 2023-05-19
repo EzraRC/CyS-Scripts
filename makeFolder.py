@@ -1,3 +1,5 @@
+#script to create folder with user inputted name
+
 #import os, to get the os.system function to execute python commands
 import os
 

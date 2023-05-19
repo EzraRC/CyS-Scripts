@@ -1,3 +1,5 @@
+#script to download html file from user inputted url
+
 import os
 
 #get url from user

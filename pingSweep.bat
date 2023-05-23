@@ -1,5 +1,6 @@
-REM Removes the commands from being displayed in order to clean the output
+REM Starting ping sweep...
 @echo off
+REM Removes the commands from being displayed in order to clean the output
 
 REM Typical for loop
 FOR /L %%i IN (1, 1, 254) DO (

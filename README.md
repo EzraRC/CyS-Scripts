@@ -11,5 +11,5 @@ This repository includes various scripts that I have written in my cybersecurity
 Please note that the scripts provided in this repository are for educational and informational purposes only. 
 It is your responsibility to ensure that you have the necessary permissions and authorizations to use these scripts on any network or system.
 
-Use the scripts at your own risk. The authors and contributors of this repository are not liable for any damages or misuse resulting from the use of these scripts.
+Use and modify the scripts at your own risk. The authors and contributors of this repository are not liable for any damages or misuse resulting from the use of these scripts.
 

@@ -1,6 +1,7 @@
+:: This script pings a range of IP addresses and displays the result of each IP pinged
+
 echo Starting ping sweep...
 @echo off
-:: Removes the commands from being displayed in order to clean the output
 
 :: Typical for loop
 FOR /L %%i IN (1, 1, 254) DO (

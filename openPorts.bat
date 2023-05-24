@@ -1,3 +1,5 @@
+:: This script scans the ports of one IP address, and prints if the current port is Open
+
 @echo off
 
 :: IP Address variable, change if necessary.

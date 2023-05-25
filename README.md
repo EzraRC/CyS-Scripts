@@ -6,6 +6,31 @@ Welcome to my CyS-Scripts repository! :)
 
 This repository includes various scripts that I have written in my cybersecurity career. These scripts can be anything from CyS tools, to mini tutorial scripts and tests, to CTF questions, and many more!
 
+## Table of Contents
+
+### Capture the Flag
+- [calculator1Second.py](#calculator1Second.py)
+  - Answers a math question that has four 4-digit numbers and 3 operands that change on every session in under 1 second.
+
+### Cybersecurity
+- [openPorts.bat](#openPorts.bat)
+    - Tells you all open ports for a particular IP address.
+- [pingSweep.bat](#pingSweep.bat)
+    - Tells you all active hosts from a range of IP addresses.
+
+### Linux
+- [createFiles.py](#createFiles.py)
+    - Creates a number of files with the user's choice of file name and amount, and stores all files in a folder.
+- [getHTMLfile.py](#getHTMLfile.py)
+    - Downloads an HTML file using wget.
+- [makeFolder.py](#makeFolder.py)
+    - Creates a folder with the user's choice of folder name.
+
+### Random
+- [reverseString.py](#reverseString.py)
+    - Prints the reverse for the user's choice of string input.
+
+
 ## Disclaimer
 
 Please note that the scripts provided in this repository are for educational and informational purposes only. 

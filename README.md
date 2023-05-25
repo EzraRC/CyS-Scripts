@@ -18,18 +18,17 @@ This repository includes various scripts that I have written in my cybersecurity
 - [pingSweep.bat](https://github.com/EzraRC/CyS-Scripts/blob/main/pingSweep.bat)
     - Tells you all active hosts from a range of IP addresses.
 
-### Linux
+### Random
+- [reverseString.py](https://github.com/EzraRC/CyS-Scripts/blob/main/reverseString.py)
+    - Prints the reverse for the user's choice of string input.
+
+### Terminal
 - [createFiles.py](https://github.com/EzraRC/CyS-Scripts/blob/main/createFiles.py)
     - Creates a number of files with the user's choice of file name and amount, and stores all files in a folder.
 - [getHTMLfile.py](https://github.com/EzraRC/CyS-Scripts/blob/main/getHTMLfile.py)
     - Downloads an HTML file using wget.
 - [makeFolder.py](https://github.com/EzraRC/CyS-Scripts/blob/main/makeFolder.py)
     - Creates a folder with the user's choice of folder name.
-
-### Random
-- [reverseString.py](https://github.com/EzraRC/CyS-Scripts/blob/main/reverseString.py)
-    - Prints the reverse for the user's choice of string input.
-
 
 ## Disclaimer
 

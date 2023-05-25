@@ -9,25 +9,25 @@ This repository includes various scripts that I have written in my cybersecurity
 ## Table of Contents
 
 ### Capture the Flag
-- [calculator1Second.py](#calculator1Second.py)
+- [#calculator1Second.py](https://github.com/EzraRC/CyS-Scripts/blob/main/calculator1Second.py)
   - Answers a math question that has four 4-digit numbers and 3 operands that change on every session in under 1 second.
 
 ### Cybersecurity
-- [openPorts.bat](#openPorts.bat)
+- [openPorts.bat](https://github.com/EzraRC/CyS-Scripts/blob/main/#openPorts.bat)
     - Tells you all open ports for a particular IP address.
-- [pingSweep.bat](#pingSweep.bat)
+- [pingSweep.bat](https://github.com/EzraRC/CyS-Scripts/blob/main/pingSweep.bat)
     - Tells you all active hosts from a range of IP addresses.
 
 ### Linux
-- [createFiles.py](#createFiles.py)
+- [createFiles.py](https://github.com/EzraRC/CyS-Scripts/blob/main/createFiles.py)
     - Creates a number of files with the user's choice of file name and amount, and stores all files in a folder.
-- [getHTMLfile.py](#getHTMLfile.py)
+- [getHTMLfile.py](https://github.com/EzraRC/CyS-Scripts/blob/main/getHTMLfile.py)
     - Downloads an HTML file using wget.
-- [makeFolder.py](#makeFolder.py)
+- [makeFolder.py](https://github.com/EzraRC/CyS-Scripts/blob/main/makeFolder.py)
     - Creates a folder with the user's choice of folder name.
 
 ### Random
-- [reverseString.py](#reverseString.py)
+- [reverseString.py](https://github.com/EzraRC/CyS-Scripts/blob/main/reverseString.py)
     - Prints the reverse for the user's choice of string input.
 
 

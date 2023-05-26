@@ -53,6 +53,12 @@ def scanPorts(hostIP, delay):
             
             # Print the port number
             print(str(i) + ': ' + output[i])
+            
+        # Else the port is not listening
+        else:
+            
+            # Print the status
+            print(str(i) + ': NOT')
 
 
 def main():

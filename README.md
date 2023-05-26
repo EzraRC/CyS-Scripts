@@ -13,6 +13,8 @@ This repository includes various scripts that I have written in my cybersecurity
   - Answers a math question that has four 4-digit numbers and 3 operands that change on every session in under 1 second.
 
 ### Cybersecurity
+- [listeningPorts.py](https://github.com/EzraRC/CyS-Scripts/blob/main/listeningPorts.py)
+    - This allows users to scan and identify open ports on a specified IP address.
 - [openPorts.bat](https://github.com/EzraRC/CyS-Scripts/blob/main/#openPorts.bat)
     - Tells you all open ports for a particular IP address.
 - [pingSweep.bat](https://github.com/EzraRC/CyS-Scripts/blob/main/pingSweep.bat)
